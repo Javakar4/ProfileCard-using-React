@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/profilecard-using-react/static/css/main.6150495a.css",
+    "main.js": "/profilecard-using-react/static/js/main.ee0284b6.js",
+    "static/media/Bg-banner-4.jpg": "/profilecard-using-react/static/media/Bg-banner-4.58330e8a91f7ca989c4f.jpg",
+    "index.html": "/profilecard-using-react/index.html",
+    "main.6150495a.css.map": "/profilecard-using-react/static/css/main.6150495a.css.map",
+    "main.ee0284b6.js.map": "/profilecard-using-react/static/js/main.ee0284b6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6150495a.css",
+    "static/js/main.ee0284b6.js"
+  ]
+}
